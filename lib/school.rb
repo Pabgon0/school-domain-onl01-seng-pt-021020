@@ -3,6 +3,7 @@ class School
   
   def intialize(name)
     @name = name
+    @school = []
   end
   
 end
